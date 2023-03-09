@@ -1,0 +1,13 @@
+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  
+
+Atualizar o GitHub ao fim de cada aula
+
+--> Abri Git Portable 
+--> Acessar o diretório com o comando CD C:/workspace/Rocketseat-Fundamentar
+--> Usar o comando Git Status 
+--> Usar o comando Git add . (Ponto para adicionar tudo)
+--> Ele vai acusar erro para todos os materiais que ainda não foram adicionados 
+--> Usar o comando Git commit -m "descrição da modificação" 
+--> Usar o comando Git push para atualizar no Github 
+
+ 
