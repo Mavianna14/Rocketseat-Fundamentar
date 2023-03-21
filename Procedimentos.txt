@@ -11,5 +11,17 @@ Atualizar o GitHub ao fim de cada aula
 --> Usar o comando Git push para atualizar no Github 
 
 
-Teste 
- 
+Configuração do profile Git:
+
+git config --global user.name "Marlon Vianna"
+git config --global user.email "marlonvianna@yahoo.com.br"
+
+
+
+
+Criar novo repositório: 
+
+-->Criar repositório no Git Hub 
+-->Clonar repositório no Workspace
+-->Atualizar os arquivos no diretório do Workspace 
+-->Realizar o commit dos arquivos
