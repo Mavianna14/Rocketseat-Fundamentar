@@ -21,7 +21,21 @@ git config --global user.email "marlonvianna@yahoo.com.br"
 
 Criar novo repositório: 
 
--->Criar repositório no Git Hub 
--->Clonar repositório no Workspace
+-->Criar repositório no Git Hub, na aba repositórios. Preencher o nome do repositório sempre com letras minúsculas e fazer a descrição dele. 
+--> Marcar semrpe a opção de add readme. 
+-->Clonar repositório no Workspace, usando o CMD. Como comando git clone + URL do repositório.
 -->Atualizar os arquivos no diretório do Workspace 
 -->Realizar o commit dos arquivos
+
+
+Outra forma de fazer: 
+
+--> -->Criar repositório no Git Hub, na aba repositórios. Preencher o nome do repositório sempre com letras minúsculas e fazer a descrição dele. 
+--> Marcar semrpe a opção de add readme. 
+-->Abrir o VS code. 
+-->Checar se o GIT está instalado. 
+--> Usar a opção no VS Code (Clone GIT repository) Adicionar o link do repositório a ser criado. 
+--> Escolher a pasta onde esse repositório vai ficar salvo. 
+-->Subir no VS Code os arquivos que você quer adicionar ao repositório em questão e atualizar. 
+
+ 
