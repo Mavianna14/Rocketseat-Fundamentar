@@ -1,0 +1,29 @@
+
+
+ul{list-style: none;}
+
+
+.banner-card{
+    position: relative;}
+
+
+.banner-card img{
+    max-width: 20%;
+    height: auto;
+    margin-left: 200px;
+
+}
+
+.banner-text{ 
+    position: absolute;
+    top: 0;
+  padding: 10px;
+  margin-left: 200px;
+  
+}
+
+.banner-text ul{
+    font-size: 30px;
+    font-style: italic;
+
+}
