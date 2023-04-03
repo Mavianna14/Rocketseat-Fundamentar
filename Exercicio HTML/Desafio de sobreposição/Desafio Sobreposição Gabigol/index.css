@@ -1,0 +1,41 @@
+body{
+margin: 0;
+padding: 0;
+background-color: red;
+height: 100vh;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container{
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+
+.container figure{
+  position: absolute;
+}
+
+.container figure img{
+  width: 250px;
+  height: 300px;
+  border: 1px solid black;
+  box-shadow: 0px 10px 20px;
+}
+
+.container figure#img1{
+  bottom:250px;
+  left: 50px;
+  z-index: 1;
+
+}
+
+.container figure#img2{
+  top:100px;
+  left:50px;
+  z-index:2;
+
+}

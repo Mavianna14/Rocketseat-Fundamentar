@@ -1,0 +1,56 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body{
+
+  background-color: #DF3232; 
+  height: 100vh;
+  }
+
+  h1{
+   font-family: 'Lobster', cursive;
+   font-size: 80px;
+   text-align: center;
+   line-height: 100px;
+   margin-top: 23px;
+
+  }
+
+ul{
+  font-family: 'Spectral', serif; 
+ margin-left: 462px;
+ margin-top: 233px;
+ position: absolute;
+}
+
+
+#imagemA{
+margin-top: 215px;
+margin-left: 444px;
+opacity: 0.6;
+width:352px;
+height: 498px;
+position: absolute;
+}
+
+#imagemB{
+  
+  
+
+}
+
+#imagemC{
+  
+
+}
+
+}
+
+
+
+font-family: 'Spectral', serif; 
+
+
+font-family: 'Lobster', cursive;
