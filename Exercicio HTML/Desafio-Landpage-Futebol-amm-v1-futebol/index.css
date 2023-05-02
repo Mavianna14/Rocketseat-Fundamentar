@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body{
+
+  background-color: #DF3232; 
+  height: 100vh;
+  }
+
+  h1{
+   font-family: 'Lobster', cursive;
+   font-size: 80px;
+   text-align: center;
+   line-height: 100px;
+   margin-top: 23px;
+
+  }
+
+ul{
+  box-sizing: border-box;
+  size: 0px;
+  font-family: 'Spectral', serif; 
+  width: 300px;
+  height: 70px;
+ margin-left: 700px;
+ margin-top: 150px;
+ font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 25px;
+}
+
+img{
+  box-sizing: border-box;
+width: 450px;
+height: 370px;
+margin-top: 10px;
+margin-left: 33px;
+}
+
+
+font-family: 'Spectral', serif; 
+
+
+font-family: 'Lobster', cursive;
